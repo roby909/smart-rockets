@@ -11,10 +11,10 @@ var count = 0;
 var target;
 var maxforce = 0.2;
 
-var frame_width = 500;
-var frame_height = 500;
+var frame_width = 400;
+var frame_height = 400;
 
-var rw = 150;
+var rw = 110;
 var rh = 10;
 var rx = (frame_width - rw) / 2;
 var ry = 150;
