@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Slugterra";
+  src: url("slugterra.otf");
+}
+
+body {
+  background-image: url("connectwork.png");
+  background-color: #000000;
+  color: #0FFF00;
+  font-family: "Slugterra";
+  font-size: 24px;
+}
